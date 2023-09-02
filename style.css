@@ -70,6 +70,10 @@ img {
     margin-bottom: 15px;
 }
 
+.card img {
+    height: 250px;
+}
+
 @media(max-width:576px) {
     .logo {
         width: 23%;
